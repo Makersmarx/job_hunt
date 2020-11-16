@@ -2,10 +2,6 @@
 
 Application to search for open job opportunities within Github using the Github Jobs API.
 
-## Demo
-
-www...
-
 ### Dependencies
 
 - React
